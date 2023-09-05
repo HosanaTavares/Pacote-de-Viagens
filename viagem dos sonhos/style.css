@@ -1,0 +1,39 @@
+
+
+header h2{
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #e9e9e9;
+    text-transform: none;
+}
+
+
+section, footer{
+    margin: 40px;
+
+}
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 17px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+footer p{
+    color:rgb(0, 0, 0);
+}
+
+h2{
+    font-size: 54px;
+    color: #303030;
+    font-weight: 600;
+}
+
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
